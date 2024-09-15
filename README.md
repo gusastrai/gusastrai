@@ -1,8 +1,6 @@
-[![Header](https://raw.githubusercontent.com/gusastrai/gusastrai/master/images/banner.png "Header")](https://github.com/gusastrai)
+[![Header](https://raw.githubusercontent.com/gusastrai/gusastrai/master/images/banner.jpg "Header")](https://github.com/gusastrai)
 
 <hr>
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gusastrai.gusastrai">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -74,9 +72,7 @@
     <a href="https://github.com/gusastrai/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusastrai&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
-    <a href="https://github.com/gusastrai/gusastrai">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gusastrai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Guss GitHub Stats" />
-    </a>
+    ![Guss GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=gusastrai&theme=react&show_icons=true)
   </div>
   <br>
 
