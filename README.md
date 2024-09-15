@@ -76,12 +76,12 @@
       <img height=200 align="right" src="https://github-contributor-stats.vercel.app/api?username=gusastrai&theme=react&show_icons=true&border=61dafb&hide_border=true" />
     </a>
   </div>
-  <br>
+  <br><br><br><br><br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gusastrai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=false)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <hr>
