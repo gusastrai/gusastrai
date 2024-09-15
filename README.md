@@ -82,6 +82,6 @@
 
 <hr>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=false)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_nord&border=false)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <hr>
