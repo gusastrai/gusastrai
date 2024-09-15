@@ -76,12 +76,18 @@
       <img height=200 align="right" src="https://github-contributor-stats.vercel.app/api?username=gusastrai&theme=react&show_icons=true&border=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gusastrai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <br>
+  <div style="margin-top: 20px; margin-bottom: 20px;" align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gusastrai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  </div>
 </p>
 
 <hr>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&border=false)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&border=false" alt="Readme Quotes">
+  </a>
+</div>
 
 <hr>
