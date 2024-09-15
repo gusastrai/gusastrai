@@ -92,6 +92,9 @@
 
 <hr>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bagusputraanugrah123)
-
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=bagusputraanugrah123&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bagusputraanugrah123&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=4999ee&bar_color_cover=false" alt="Spotify Profile">
+  </a>
+</div>
 <hr>
