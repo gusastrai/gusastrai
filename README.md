@@ -83,7 +83,8 @@
 </p>
 
 <hr>
-
+<h2 align="center">✨ Quotes Of The Day ✨</h2>
+<br>
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&border=false" alt="Readme Quotes">
@@ -91,7 +92,8 @@
 </div>
 
 <hr>
-
+<h2 align="center">🎵 Now Playing 🎵</h2>
+<br>
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=bagusputraanugrah123&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bagusputraanugrah123&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=4999ee&bar_color_cover=false" alt="Spotify Profile">
