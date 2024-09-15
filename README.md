@@ -91,3 +91,7 @@
 </div>
 
 <hr>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bagusputraanugrah123)
+
+<hr>
