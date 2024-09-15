@@ -92,7 +92,7 @@
 </div>
 
 <hr>
-<h2 align="center">🎵 Now Playing 🎵</h2>
+<h2 align="center">▶️ Now Playing ▶️</h2>
 <br>
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=bagusputraanugrah123&redirect=true">
