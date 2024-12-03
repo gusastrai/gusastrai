@@ -58,6 +58,10 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/gusastrai/gusastrai/output/github-contribution-grid-snake-dark.svg)
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/gusastrai/github-readme-streak-stats" title="Go to Source">
